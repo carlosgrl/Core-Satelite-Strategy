@@ -9,7 +9,7 @@ Autor: Carlos Fernández Fernández
 
 Fecha: Abril 2026
 
-🔬 Metodología y Fundamentos Teóricos
+🔬 Metodología y Fundamentos Teóricos:
 El análisis se estructura en torno a pilares de la literatura financiera clásica y moderna, implementando modelos matemáticos para cada fase:
 
 Modelado de Retornos: Basado en la Théorie de la spéculation (Bachelier, 1900) y el interés compuesto.
@@ -26,7 +26,7 @@ Expected Shortfall (CVaR)
 
 Maximum Drawdown (MDD)
 
-🛠️ Estructura del Notebook
+🛠️ Estructura del Notebook:
 El análisis está dividido en 5 fases ejecutables:
 
 Fase 1: Core Benchmark: Proyecciones determinísticas y estocásticas del motor principal de inversión.
@@ -39,7 +39,7 @@ Fase 4: Backtesting: Validación histórica de la estrategia propuesta.
 
 Fase 5: Paper Trading: Configuración para simulación en tiempo real.
 
-⚖️ Disclaimer
+⚖️ Disclaimer:
 Este documento tiene fines exclusivamente académicos y educativos. No constituye asesoramiento financiero, legal o de inversión. Los resultados pasados no garantizan rendimientos futuros.
 
 📄 Licencia
