@@ -40,32 +40,6 @@ Fase 4: Backtesting: Validación histórica de la estrategia propuesta.
 
 Fase 5: Paper Trading: Configuración para simulación en tiempo real.
 
-🚀 Instalación y Uso
-Requisitos previos
-
-El entorno requiere Python 3.x y las siguientes librerías de ciencia de datos:
-
-Bash
-pip install numpy pandas matplotlib seaborn scipy
-Ejecución
-
-Clona el repositorio:
-
-Bash
-git clone https://github.com/TU_USUARIO/TU_REPO.git
-Abre el archivo Estrategia_Core_Satelite.ipynb en Jupyter Lab o VS Code.
-
-(Opcional) Ejecuta directamente en la nube usando el botón de Google Colab al inicio de este README.
-
-📊 Visualizaciones Clave
-El notebook genera gráficos interactivos y estáticos para facilitar la toma de decisiones:
-
-Abanicos de probabilidad (Monte Carlo).
-
-Histogramas de distribución de retornos ajustados por riesgo.
-
-Comparativa de poder adquisitivo vs. inflación histórica.
-
 ⚖️ Disclaimer
 Este documento tiene fines exclusivamente académicos y educativos. No constituye asesoramiento financiero, legal o de inversión. Los resultados pasados no garantizan rendimientos futuros.
 
