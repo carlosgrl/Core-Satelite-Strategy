@@ -1,7 +1,6 @@
 Investment Strategy: Core + Satellite Analysis
 A Quantitative Approach Based on Financial Literature
 
-📋 Overview
 Este proyecto implementa un análisis cuantitativo profesional de la estrategia de inversión Core + Satellite. El objetivo es modelar el crecimiento de capital a largo plazo combinando la gestión pasiva (Core) con la identificación activa de oportunidades (Satellite), bajo un marco de gestión de riesgos riguroso basado en evidencia académica.
 
 Autor: Carlos Fernández Fernández
